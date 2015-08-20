@@ -1,0 +1,60 @@
+# University of Central Florida School of Performing Arts Composition Lessons
+
+## 2015-2016 Syllabus
+
+Instructor: Dr. David MacDonald
+Phone (mobile): 314-610-2939
+Email: David.MacDonald@ucf.edu
+Office: PAC M230
+
+#### Description
+
+Over several semesters (Composition III-IV for undergraduate students, Composition V-VI for graduate students), composers will create a variety of musical compositions according to their own interest and the guidance of the professor. Students will present performances of some of these works. They will also develop a greater understanding of musical repertoire of the 20th and 21st centuries through guided listening and score study.
+
+
+#### Objectives
+
+* develop compositional skills and fluency with a variety of media, including chamber, choral/vocal, large ensemble music, and others according to student interest
+* develop technical facility in writing for various instruments and voices
+* create works with a variety of forms and durations
+* build a well-balanced portfolio of works
+* produce and present professional-quality printed scores and parts
+* practice skills associated with arranging and presenting performances of one’s music, including speaking and writing about it
+
+#### Course Materials
+
+There is no required textbook, but a copy of a good orchestration book will come in handy. I recommend Samuel Adler’s *The Study of Orchestration* or Kent Kennan’s *The Technique of Orchestration*.
+
+Students will work on scores in a variety of formats, depending on the project. However, all students should be prepared to work in both paper-and-pencil and digital notation. Each student may choose whatever *professional* scoring application they are most comfortable with for final versions of scores.
+
+Additional score study, listening, and reading may be assigned on a case-by-case basis. Students should plan to have access to Spotify (a free account is fine) and the UCF library resources.
+
+<!-- BREAK -->
+
+| Grades ||
+| :---: | --- |
+| 5%<br>composition goals | At the beginning of the semester, each composer will create a set of compositional goals for the music they will write. These may include long-term goals, but must include plans for the current semester and academic year. These goals will be set in consultation with the instructor and may be changed throughout the semester. This must be completed during the first week of the semester! |
+| 65%<br>weekly lesson preparation | Two parts: <ul><li>80% - significant progress made toward composition goals</li><li>20% - prepared listening or reading |
+| 5%<br>recital attendance | Composers are expected to attend all Composition Forums, Area Recitals, and Collide concerts. Other events may be required at the instructor's discretion. |
+| 15%<br>performances | Composers must have at least one work performed on campus each semester that has been completed or substantively revised within the previous year. Significant off-campus events may substitute for this requirement only with pre-approval at least one month before the performance. |
+| 10%<br>jury | At the end of each semester, composers will present all work composed or revised during the term. |
+
+#### Lesson Attendance
+
+Each student will have a one-hour lesson for each week of the term. Lessons may need to be rescheduled for university holidays, schedule conflicts, illness, etc. Lessons must be made up within two weeks of the original date.
+
+Students must arrive at lessons on time. Students arriving late will be penalized two points lesson points after five minutes and four lesson points after ten minutes. Students arriving more than fifteen minutes after their scheduled lesson time will receive a zero for the lesson. Unexcused absences will result in a 0 for the lesson, and these lessons *will not be made up*. When running late or are otherwise unavailable, it is the student's responsibility to to inform the professor as early as possible.
+
+#### Juries
+
+As a final evaluation of the compositions completed during the semester, each student composer will be required to present a jury at the conclusion of the semester unless otherwise excused. Composers will be informed of exact jury procedures mid-semester, and they should submit a complete portfolio of the works to be evaluated at least two weeks prior to finals week. Late submissions will not be accepted.
+
+#### Important Message for students receiving financial aid! Please read!
+
+All faculty members are required to document students' academic activity at the beginning of each course. In order to document that you began this course, please complete the assignment “Composition Goals, First Draft” by the end of the day (11:59pm) on Friday of week 1. Failure to do so will result in a delay in the disbursement of your financial aid On Canvas, complete the assignment “Composition Goals, First Draft” by the end of the day (11:59pm) on Friday of week 1.
+
+{{inc/policies.md}}
+
+{{inc/grade_scale.md}}
+
+**This syllabus is subject to change. All students will be notified promptly when a change is made.**
