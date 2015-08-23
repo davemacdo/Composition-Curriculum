@@ -58,6 +58,7 @@
 * Gregory Spears
 * Bernadette Speach
 * Karlheinz Stockhausen
+* Markus Stockhausen
 * Igor Stravinsky
 * Steven Stuckey
 * Morton Subotnick
