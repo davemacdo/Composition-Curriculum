@@ -9,11 +9,13 @@
 * Luciano Berio
 * Pierre Boulez
 * Elliot Carter
+* Chen Yi
 * Anna Clyne
 * Michael Colgrass
 * David Cope
 * George Crumb
 * Mario Davidovsky
+* Peter Maxwell Davies
 * Du Yun
 * Alex Gardner
 * Benjamin Grosser
@@ -66,6 +68,5 @@
 * Joan Tower
 * Ken Ueno
 * Julia Wolf
-* Chen Yi
 * John Zorn
 * Ellen Zwilich
