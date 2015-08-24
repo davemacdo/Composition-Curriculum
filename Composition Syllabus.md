@@ -25,7 +25,7 @@ Over several semesters (Composition III-IV for undergraduate students, Compositi
 
 There is no required textbook, but a copy of a good orchestration book will come in handy. I recommend Samuel Adler’s *The Study of Orchestration* or Kent Kennan’s *The Technique of Orchestration*.
 
-Students will work on scores in a variety of formats, depending on the project. However, all students should be prepared to work in both paper-and-pencil and digital notation. Each student may choose whatever *professional* scoring application they are most comfortable with for final versions of scores.
+Students will work on scores in a variety of formats, depending on the project. However, all students should be prepared to work in both paper-and-pencil and digital notation. Each student may choose whatever professional scoring application they are most comfortable with for final versions of scores.
 
 Additional score study, listening, and reading may be assigned on a case-by-case basis. Students should plan to have access to Spotify (a free account is fine) and the UCF library resources.
 
@@ -34,9 +34,10 @@ Additional score study, listening, and reading may be assigned on a case-by-case
 | Grades ||
 | :---: | --- |
 | 5%<br>composition goals | At the beginning of the semester, each composer will create a set of compositional goals for the music they will write. These may include long-term goals, but must include plans for the current semester and academic year. These goals will be set in consultation with the instructor and may be changed throughout the semester. This must be completed during the first week of the semester! |
-| 65%<br>weekly lesson preparation | Two parts: <ul><li>80% - significant progress made toward composition goals</li><li>20% - prepared listening or reading |
+| 60%<br>weekly lesson preparation | Students will be evaluated on significant progress made toward composition goals. |
+| 10%<br>weekly listening discussion | Students will participate in a weekly discussion board on a different piece of music. |
 | 5%<br>recital attendance | Composers are expected to attend all Composition Forums, Area Recitals, and Collide concerts. Other events may be required at the instructor's discretion. |
-| 15%<br>performances | Composers must have at least one work performed on campus each semester that has been completed or substantively revised within the previous year. Significant off-campus events may substitute for this requirement only with pre-approval at least one month before the performance. |
+| 10%<br>performances | Composers must have at least one work performed on campus each semester that has been completed or substantively revised within the previous year. Significant off-campus events may substitute for this requirement only with pre-approval at least one month before the performance. |
 | 10%<br>jury | At the end of each semester, composers will present all work composed or revised during the term. |
 
 #### Lesson Attendance
