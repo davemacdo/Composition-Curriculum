@@ -1,6 +1,8 @@
-# University of Central Florida School of Performing Arts Composition Lessons
+## University of Central Florida School of Performing Arts
 
-## 2015-2016 Syllabus
+# Music Composition Syllabus
+
+### MUC3105C, 4106C, 5112, 6251
 
 Instructor: Dr. David MacDonald
 Phone (mobile): 314-610-2939
@@ -39,6 +41,8 @@ Additional score study, listening, and reading may be assigned on a case-by-case
 | 5%<br>recital attendance | Composers are expected to attend all Composition Forums, Area Recitals, and Collide concerts. Other events may be required at the instructor's discretion. |
 | 10%<br>performances | Composers must have at least one work performed on campus each semester that has been completed or substantively revised within the previous year. Significant off-campus events may substitute for this requirement only with pre-approval at least one month before the performance. |
 | 10%<br>jury | At the end of each semester, composers will present all work composed or revised during the term. |
+
+See assignment rubrics for further detail.
 
 #### Lesson Attendance
 
