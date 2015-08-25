@@ -12,7 +12,7 @@ Each weekly lesson will be given a grade from **zero** to **five**. Students wil
 | :----------:  |
 | 5 | The composer has made significant progress on the current piece, working toward previously established goals. Furthermore, the composer justifies creative decisions and has considered future plans for continuing and finishing the work. |
 | 4 | The composer has made some progress, but not has not moved the current piece significantly closer to completion. Creative reasoning seems unclear or incomplete. |
-| 3 | The composer has made only negligible progress on the current piece.  |
+| 3 | The composer has made only moderate progress on the current piece.  |
 | 2 | The composer has made little or no progress on the current piece and is unclear about the future direction of the work.  |
 | 0 | The composer has made no progress or not shown up to the lesson.  |
 
