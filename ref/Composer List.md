@@ -17,6 +17,7 @@
 * Mario Davidovsky
 * Peter Maxwell Davies
 * Du Yun
+* Morton Feldman
 * Alex Gardner
 * Benjamin Grosser
 * Sofia Gubaidulina
