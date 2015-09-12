@@ -6,3 +6,7 @@ A few things about our curriculum:
 
 * The courses included here are private lessons for upper division undergraduates and graduate students.
 * Most students will be working with this for four semesters, after prerequisites and application/interview.
+
+----
+
+*NB: The Comp I and II folders are merely placeholders for now. I'm not teaching either class as I'm putting this repo together for the first time. I will update it the next time I am.*
