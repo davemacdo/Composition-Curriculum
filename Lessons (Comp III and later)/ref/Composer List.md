@@ -1,7 +1,8 @@
 * John Adams
 * John Luther Adams
-* Laurie Anderson
 * Andy Akiho
+* Laurie Anderson
+* Mark Applebaum
 * Darcy James Argue
 * Béla Bartók
 * Mason Bates
@@ -68,5 +69,6 @@
 * Joan Tower
 * Ken Ueno
 * Julia Wolf
+* Iannis Xenakis
 * John Zorn
 * Ellen Zwilich
