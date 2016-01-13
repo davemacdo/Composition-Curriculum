@@ -8,6 +8,7 @@
 * Mason Bates
 * Jay Batzner
 * Luciano Berio
+* Harrison Birtwistle
 * Pierre Boulez
 * Elliot Carter
 * Chen Yi
@@ -31,6 +32,7 @@
 * Colin Jacobsen
 * Ben Johnston
 * Jennifer Jolley
+* György Kurtág
 * David Lang
 * Paul Lansky
 * Libby Larsen
@@ -44,6 +46,7 @@
 * Olivier Messaien
 * Darius Milhaud
 * Andrew Norman
+* Pamela Z
 * Tristan Perich
 * Sam Pluta
 * Paola Prestini
@@ -55,10 +58,12 @@
 * Steve Reich
 * Kaija Saariaho
 * Maria Schneider
+* Alfred Schnittke
 * Gunther Schuller
 * Joseph Schwantner
 * Caroline Shaw
 * Bright Sheng
+* Sarah Kirkland Snider
 * Gregory Spears
 * Bernadette Speach
 * Karlheinz Stockhausen
@@ -67,6 +72,7 @@
 * Steven Stuckey
 * Morton Subotnick
 * Augusta Read Thomas
+* Anna Thorvaldsdóttir
 * Joan Tower
 * Ken Ueno
 * Julia Wolf
