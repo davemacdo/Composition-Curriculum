@@ -53,6 +53,16 @@ After Monday's workshop, plan to attend our guest's recital the following evenin
 
 **The program for this event will be curated. Student composers will be invited to participate.**
 
+## Jehad Choate, Graduate Composition Recital
+
+* Monday, 11 April 2016, 9p
+* UCF Rehearsal Hall
+
+## Jay Beard, Senior Composition Recital
+
+* Tuesday, 12 April 2016, 7p
+* UCF Rehearsal Hall
+
 ## Composition Forum Recital
 
 * Thursday, 7 April 2016, noon
