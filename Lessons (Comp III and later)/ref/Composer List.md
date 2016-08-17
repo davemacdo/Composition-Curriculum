@@ -60,6 +60,7 @@
 * Joel Puckett
 * Miller Puckette
 * David Rakowski
+* Einojuhani Rautavaara
 * Shulamit Ran
 * Steve Reich
 * Christopher Rouse
