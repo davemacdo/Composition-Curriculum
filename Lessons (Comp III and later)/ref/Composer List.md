@@ -8,9 +8,11 @@
 * Béla Bartók
 * Mason Bates
 * Jay Batzner
+* Eve Beglarian
 * Luciano Berio
 * Harrison Birtwistle
 * Pierre Boulez
+* Martin Bresnick
 * Elliot Carter
 * Chen Yi
 * Anna Clyne
@@ -20,6 +22,7 @@
 * Mario Davidovsky
 * Peter Maxwell Davies
 * Du Yun
+* Mohammed Fairouz
 * Morton Feldman
 * Alex Gardner
 * Benjamin Grosser
@@ -33,11 +36,13 @@
 * Colin Jacobsen
 * Ben Johnston
 * Jennifer Jolley
+* Aaron J. Kernis
 * György Kurtág
 * David Lang
 * Paul Lansky
 * Libby Larsen
 * Tania León
+* John Anthony Lennon
 * David T. Little
 * Tod Machover
 * Steven Mackey
@@ -57,6 +62,7 @@
 * David Rakowski
 * Shulamit Ran
 * Steve Reich
+* Christopher Rouse
 * Kaija Saariaho
 * Maria Schneider
 * Alfred Schnittke
