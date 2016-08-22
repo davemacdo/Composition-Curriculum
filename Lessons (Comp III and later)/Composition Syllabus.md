@@ -58,8 +58,8 @@ As a final evaluation of the compositions completed during the semester, each st
 
 All faculty members are required to document students' academic activity at the beginning of each course. In order to document that you began this course, please complete the assignment “Composition Goals, First Draft” by the end of the day (11:59pm) on Friday of week 1. Failure to do so will result in a delay in the disbursement of your financial aid On Canvas, complete the assignment “Composition Goals, First Draft” by the end of the day (11:59pm) on Friday of week 1.
 
-{{inc/policies.md}}
+{{../inc/policies.md}}
 
-{{inc/grade_scale.md}}
+{{../inc/grade_scale.md}}
 
 **This syllabus is subject to change. All students will be notified promptly when a change is made.**
