@@ -6,7 +6,7 @@ Listening is important. Being able to hear a piece of music and understand its c
 
 ## Listening Discussion
 
-Each week, you will listen to a particular work (or group of works). Most weeks, this will be specifically assigned, but some weeks you may choose. See the schedule below. Listen to the work attentively several times. You may listen to any recording you like, but each prompt will provide a link to Spotify, SoundCloud, YouTube, or something similar. On weeks in which you are selecting your own piece, be sure to include a link to the recording you listened to if possible.
+Each week, you will listen to a particular work (or group of works). See the schedule below. Listen to the work attentively several times. You may listen to any recording you like, but each prompt will provide a link to Spotify, SoundCloud, YouTube, or something similar. Occasionally, you will find an extra, optional listening suggestion for added context, or because I just like the piece.
 
 For each discussion, *you must make at least two posts*.
 
@@ -31,6 +31,6 @@ Posts are due on Sunday evenings.
 
 ## Listening Schedule
 
-{{listening-sched/2016-01.md}}
+{{listening-sched/2016-08.md}}
 
 [^long]: This work is a little longer than some others on the list. Be sure to give yourself plenty of time to listen thoroughly.

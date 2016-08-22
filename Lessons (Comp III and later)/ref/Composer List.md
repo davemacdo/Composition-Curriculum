@@ -69,6 +69,7 @@
 * Alfred Schnittke
 * Gunther Schuller
 * Joseph Schwantner
+* Roger Sessions
 * Caroline Shaw
 * Bright Sheng
 * Sarah Kirkland Snider
