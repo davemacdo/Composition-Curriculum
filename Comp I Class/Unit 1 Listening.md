@@ -4,6 +4,10 @@
 
 I've compiled the unit's listening into a single Spotify playlist. You may also use other recordings if you wish.
 
+<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Adavemacdo%3Aplaylist%3A69rybvDfIcNV7aLoitEJap" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+[direct link](https://open.spotify.com/user/davemacdo/playlist/69rybvDfIcNV7aLoitEJap)
+
 ### Wednesday, 24 August
 
 - Debussy: _Syrinx_ (1913) - [score](http://imslp.org/wiki/Syrinx_(Debussy,_Claude))
