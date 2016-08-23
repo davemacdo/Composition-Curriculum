@@ -13,7 +13,6 @@ Office: PAC M230
 
 Over several semesters (Composition III-IV for undergraduate students, Composition V-VI for graduate students), composers will create a variety of musical compositions according to their own interest and the guidance of the professor. Students will present performances of some of these works. They will also develop a greater understanding of musical repertoire of the 20th and 21st centuries through guided listening and score study.
 
-
 #### Objectives
 
 * develop compositional skills and fluency with a variety of media, including chamber, choral/vocal, large ensemble music, and others according to student interest
