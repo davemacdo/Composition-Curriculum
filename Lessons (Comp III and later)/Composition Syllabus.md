@@ -24,13 +24,11 @@ Over several semesters (Composition III-IV for undergraduate students, Compositi
 
 #### Course Materials
 
-There is no required textbook, but a copy of a good orchestration book will come in handy. I recommend Samuel Adler’s *The Study of Orchestration* or Kent Kennan’s *The Technique of Orchestration*.
+There is no required textbook, but a copy of a good orchestration book will come in handy. I recommend Samuel Adler’s *The Study of Orchestration* or Kent Kennan’s *The Technique of Orchestration*. (UCF Orchestration courses use the Adler.)
 
 Students will work on scores in a variety of formats, depending on the project. However, all students should be prepared to work in both paper-and-pencil and digital notation. Each student may choose whatever professional scoring application they are most comfortable with for final versions of scores.
 
-Additional score study, listening, and reading may be assigned on a case-by-case basis. Students should plan to have access to Spotify (a free account is fine) and the UCF library resources.
-
-<!-- BREAK -->
+Additional score study, listening, and reading may be assigned on a case-by-case basis. Students should plan to have access to Spotify (a free account is fine) and the UCF library resources. Students may wish to upgrade to a Spotify premium account to remove ads, get higher-quality audio, and be more independent on the mobile app. The steep [student discount](https://www.spotify.com/us/student/) makes this a very good value for the price.  
 
 | Grades ||
 | :---: | --- |
@@ -55,10 +53,12 @@ As a final evaluation of the compositions completed during the semester, each st
 
 #### Important Message for students receiving financial aid! Please read!
 
-All faculty members are required to document students' academic activity at the beginning of each course. In order to document that you began this course, please complete the assignment “Composition Goals, First Draft” by the end of the day (11:59pm) on Friday of week 1. Failure to do so will result in a delay in the disbursement of your financial aid On Canvas, complete the assignment “Composition Goals, First Draft” by the end of the day (11:59pm) on Friday of week 1.
+All faculty members are required to document students' academic activity at the beginning of each course. In order to document that you began this course, please complete the assignment “Composition Goals, First Draft” on Webcourses by the end of the day (11:59pm) on Friday of week 1. Failure to do so will result in a delay in the disbursement of your financial aid.
 
 {{../inc/policies.md}}
 
+<div style="float:left; margin-right: 1em;">
 {{../inc/grade_scale.md}}
+</div>
 
 **This syllabus is subject to change. All students will be notified promptly when a change is made.**

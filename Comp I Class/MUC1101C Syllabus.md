@@ -56,8 +56,7 @@ During the periods marked "lessons", we will not meet as a full class. Instead, 
 
 ##### Text
 
-* Wilkins: _Creative Music Composition: The Young Composer's Voice_ (2006)
-* additional readings distributed on Webcourses
+* individual reading and listening assignments, posted or linked in Webcourses
 
 ##### Other materials
 
@@ -98,14 +97,14 @@ In general, subjective assessments will be made by the instructor regarding prep
 
 Please be sure to check Webcourses notifications as well as your UCF email address on a regular basis for information and announcements about the course.
 
-<!-- BREAK -->
-
 #### Important Message for students receiving financial aid! Please read!
 
-All faculty members are required to document students' academic activity at the beginning of each course. In order to document that you began this course, please complete the assignment “Composition Goals, First Draft” by the end of the day (11:59pm) on Friday of week 1. Failure to do so will result in a delay in the disbursement of your financial aid On Canvas, complete the assignment “Composition Goals, First Draft” by the end of the day (11:59pm) on Friday of week 1.
+All faculty members are required to document students' academic activity at the beginning of each course. In order to document that you began this course, please complete the discussion assignment on Webcourses by the end of the day (11:59pm) on Friday of week 1. Failure to do so will result in a delay in the disbursement of your financial aid.
 
 {{../inc/policies.md}}
 
+<div style="float:left; margin-right: 1em;">
 {{../inc/grade_scale.md}}
+</div>
 
 **This syllabus is subject to change. All students will be notified promptly when a change is made.**
