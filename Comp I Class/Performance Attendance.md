@@ -16,3 +16,11 @@ For each of these, you must attend the entire performance to the bitter end! Wri
 If you like or do not like a work, you should still be able to address these issues. You don't have to like everything you listen to, and you *should* listen to things that you don't like. A thoughtful and mature musician like you should be able to listen to any piece of music and identify at least one thing that you would want to emulate in your own music *and* at least one thing you would want to write differently.
 
 Lastly, this is not a review of the performance. You may comment on the performance, but our primary focus is the compositions.
+
+This assignment will be open throughout the semester and due during the last week of classes. Please start as soon as possible. I would _strongly_ encourage you to write your response as soon after the performance as you can, while it is still fresh in your mind.
+
+## Rubric
+
+* 10 points: The written response met the minimum requirements for thoroughness. It made specific and thoughtful observations about the pieces in the performance. The writing was clear and easy to understand.
+* 6-9 points: The written response met the minimum length requirements. Some passages were vague, unclear, or irrelevant to the pieces or performers.
+* 0-5 points: The written response did not meet the minimum requirements. It made few significant observations about the pieces in the performance. Some parts may have been difficult to understand. 
