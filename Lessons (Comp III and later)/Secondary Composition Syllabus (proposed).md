@@ -19,7 +19,6 @@ Students interested in intermediate composition study who are not composition ma
 * create works with a variety of forms and durations
 * build a well-balanced portfolio of works
 * produce and present professional-quality printed scores and parts
-* practice skills associated with arranging and presenting performances of one’s music, including speaking and writing about it
 
 #### Course Prerequisites
 
@@ -60,7 +59,7 @@ Students must arrive at lessons on time. Students arriving late will be penalize
 
 #### Performance Attendance
 
-Composers are expected to attend all Composition Forums, Area Recitals, and Collide concerts. Other events may be required at the instructor's discretion. Composers will only be excused for documented emergencies or pre-cleared academic conflicts. Work obligations are not an acceptable excuse. Excused absences from performances will be made up in coordination with the instructor. 
+Composers are expected to attend all Composition Forums, Area Recitals, and Collide concerts. Other events may be required at the instructor's discretion. Composers will only be excused for documented emergencies or pre-cleared academic conflicts. Work obligations are not an acceptable excuse. Excused absences from performances will be made up in coordination with the instructor.
 
 #### Important Message for students receiving financial aid! Please read!
 
