@@ -19,7 +19,7 @@ During the week prior to class reading sessions, students will meet one-on-one w
 
 ## Assignment deliverables and readings
 
-Each of these is required. Submit all digital files via Webcourses. Bring papers to class for reading sessions.
+Each of these is required. Submit all digital files via Webcourses. Bring paper copies to class for reading sessions.
 
 * **PDF**:
     * full score
@@ -31,6 +31,6 @@ Each of these is required. Submit all digital files via Webcourses. Bring papers
 
 ## Grading
 
-Please review the Composition Project Rubric in the Pages tab of Webcourses. 
+Please review the Composition Project Rubric in the Pages tab of Webcourses.
 
 [^length]: Pieces with slower tempos and rhythms should be at the longer end of this range. Pieces with faster tempos and rhythms may be closer to one minute.
