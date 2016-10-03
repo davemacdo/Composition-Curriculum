@@ -47,6 +47,10 @@ Each student will have a one-hour lesson for each week of the term. Lessons may 
 
 Students must arrive at lessons on time. Students arriving late will be penalized two points lesson points after five minutes and four lesson points after ten minutes. Students arriving more than fifteen minutes after their scheduled lesson time will receive a zero for the lesson. Unexcused absences will result in a 0 for the lesson, and these lessons *will not be made up*. When running late or are otherwise unavailable, it is the student's responsibility to to inform the professor as early as possible.
 
+#### Recital Attendance
+
+Composers are expected to attend all Composition Forums, Area Recitals, and Collide concerts. Other events may be required at the instructor's discretion. The schedule of these events will be announced as far in advance as possible (most at the beginning of the fall semester for the full year). It is your responsibility to arrange your schedule accordingly. Students will only be excused from missing these events for university travel or family emergencies. Work schedule conflicts will not be excused.
+
 #### Juries
 
 As a final evaluation of the compositions completed during the semester, each student composer will be required to present a jury at the conclusion of the semester unless otherwise excused. Composers will be informed of exact jury procedures mid-semester, and they should submit a complete portfolio of the works to be evaluated at least two weeks prior to finals week. Late submissions will not be accepted.
