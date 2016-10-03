@@ -62,7 +62,7 @@ Program includes _New Piece_ by Earle Brown, _Routine Investigation_ by Morton F
 
 ## Continuum Quartet
 
-* Saturday, 9 October, 7:30p
+* Sunday, 9 October, 7:30p
 * Gallery at Avalon Island (39 S Magnolia Ave, Orlando)
 * Ticket information at <http://www.accidentalmusicfestival.com>
 
