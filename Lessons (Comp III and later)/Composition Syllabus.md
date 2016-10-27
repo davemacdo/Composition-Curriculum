@@ -30,6 +30,15 @@ Students will work on scores in a variety of formats, depending on the project. 
 
 Additional score study, listening, and reading may be assigned on a case-by-case basis. Students should plan to have access to Spotify (a free account is fine) and the UCF library resources. Students may wish to upgrade to a Spotify premium account to remove ads, get higher-quality audio, and be more independent on the mobile app. The steep [student discount](https://www.spotify.com/us/student/) makes this a very good value for the price.  
 
+##### Recommended Periodicals
+
+In the interest of staying current with news in the field of new music, composers are encouraged to read about new works, recordings, and essays. Here are a few of the most important sources, though there may be more. These may be discussed in weekly studio meetings.
+
+- [New Music Box](http://www.newmusicbox.org/)
+- [_New York Times: Arts: Music_](http://www.nytimes.com/section/arts/music)
+- [_The New Yorker_'s Alex Ross archive](http://www.newyorker.com/contributors/alex-ross/all)
+- [_The Washington Post_'s Anne Midgette archive](https://www.washingtonpost.com/people/anne-midgette/)
+
 | Grades ||
 | :---: | --- |
 | 5%<br>composition goals | At the beginning of the semester, each composer will create a set of compositional goals for the music they will write. These may include long-term goals, but must include plans for the current semester and academic year. These goals will be set in consultation with the instructor and may be changed throughout the semester. This must be completed during the first week of the semester! |
