@@ -103,8 +103,6 @@ All faculty members are required to document students' academic activity at the 
 
 {{../inc/policies.md}}
 
-<div style="float:left; margin-right: 1em;">
 {{../inc/grade_scale.md}}
-</div>
 
 **This syllabus is subject to change. All students will be notified promptly when a change is made.**
