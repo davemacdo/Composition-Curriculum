@@ -4,13 +4,12 @@
 
 All recital programs are subject to the approval of your primary composition instructor.
 
-- Senior recital programs should include a minimum of 25 minutes of music, not including any set changes or time between pieces. The program should demonstrate a well-rounded portfolio including the following:
+- Senior recital programs should include a minimum of 30 minutes of music, not including any set changes or time between pieces. The program should demonstrate a well-rounded portfolio including the following:
 	- at least one piece longer than seven minutes
 	- a variety of mediums, by ensemble size and instrument family
 - The program should consist of pieces that you worked on with your instructor. If you would like to program anything from outside lessons, you will need your instructor's approval first.
 - The program should favor more recent works. Ideally, it will include pieces written exclusively during your time in Comp III and IV.
-
-[[[ Do we want to include anything here about substituting time from large ensemble performances? ]]]
+- With advance approval from your instructor, performances by large ensembles at UCF (orchestra, choirs, or concert bands) that occur during the same academic year as the recital may be counted toward the 30-minute program minimum. Reading sessions are not sufficient to meeting this requirement. 
 
 ## Scheduling
 
@@ -21,8 +20,7 @@ All recital programs are subject to the approval of your primary composition ins
 
 ## Hearing and program approval
 
-[[[ Information about hearing committee? ]]]
-
+- By the end if week 2 of the semester, secure the participation of a three-member recital hearing committee. The committee must include Dr. MacDonald, Dr. Ro, and one other full-time faculty member in the music department. 
 - Submit a complete draft of the recital program, including a program note for each piece on the program, a minimum of four weeks before the recital. This should be emailed to Dr. Ro, Dr. MacDonald, and all other members of your committee.
 	- Faculty with give feedback and suggest revisions on program notes.
 	- Verify any technical or logistical needs at this point, such as audio playback, video projector, multi-piano works, or large percussion setups.
