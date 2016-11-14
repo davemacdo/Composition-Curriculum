@@ -1,6 +1,6 @@
-## University of Central Florida School of Performing Arts
+# MUC 1101C: Music Composition I Syllabus
 
-# MUC 1101C: Music Composition I
+## University of Central Florida School of Performing Arts
 
 Instructor: Dr. David MacDonald
 Email: David.MacDonald@ucf.edu
