@@ -1,6 +1,4 @@
-# Unit 3: Rhythm and Meter
-
-## Listening Assignments
+# Unit 3 Listening Assignments
 
 I've compiled the unit's listening into a single Spotify playlist. You may also use other recordings if you wish. Scores are linked or available on Webcourses where possible.
 

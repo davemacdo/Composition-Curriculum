@@ -1,6 +1,4 @@
-# Unit 1: Tonality
-
-## Reading Assignments
+# Unit 1 Reading Assignments
 
 Sections of the Wilkins[^Wilkins] text are identified by chapter/section rather than page number since we may be using different formats. Other readings will be provided in Webcourses or linked on the web.
 

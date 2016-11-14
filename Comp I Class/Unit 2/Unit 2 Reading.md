@@ -1,6 +1,4 @@
-# Unit 2: Motivic Development
-
-## Reading Assignments
+# Unit 2 Reading Assignments
 
 Reading assignments will be provided as downloads or links on Webcourses. Please read each of these excerpts or essays _before_ coming to class on the specified day.
 

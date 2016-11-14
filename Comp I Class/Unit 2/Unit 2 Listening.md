@@ -1,6 +1,4 @@
-# Unit 2: Motivic Development
-
-## Listening Assignments
+# Unit 2 Listening Assignments
 
 I've compiled the unit's listening into a single Spotify playlist. You may also use other recordings if you wish. Scores are linked or available on Webcourses where possible.
 
@@ -21,7 +19,7 @@ I've compiled the unit's listening into a single Spotify playlist. You may also 
 
 ## Wednesday, 5 October
 
-- Lutosławski: _Concerto for Orchestra_, mvt. 1 (1945) 
+- Lutosławski: _Concerto for Orchestra_, mvt. 1 (1945)
 
 ## Further Listening
 

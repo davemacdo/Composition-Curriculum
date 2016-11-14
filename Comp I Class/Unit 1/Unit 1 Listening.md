@@ -1,6 +1,4 @@
-# Unit 1: Tonality
-
-## Listening Assignments
+# Unit 1 Listening Assignments
 
 I've compiled the unit's listening into a single Spotify playlist. You may also use other recordings if you wish.
 
