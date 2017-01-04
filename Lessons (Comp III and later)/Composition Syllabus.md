@@ -1,6 +1,6 @@
 ## University of Central Florida School of Performing Arts
 
-# Music Composition Syllabus
+# Music Composition Syllabus, 2016-17
 
 ### MUC3105C, 4106C, 5112, 6251
 
