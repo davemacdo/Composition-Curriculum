@@ -19,5 +19,7 @@ Juries will be scheduled in twenty-minute sessions. ([Sign up here](https://docs
 ### Submission Checklist
 
 - &#10065; Printed and bound scores
-- &#10065; PDF of score (emailed)
-- &#10065; PDF list of works
+- &#10065; Digital submissions via Dropbox links above:
+	- &#10065; Score PDFs
+	- &#10065; Live or computer-realized recordings: audio and video files only, not score files!
+	- &#10065; PDF list of works
