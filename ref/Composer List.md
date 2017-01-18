@@ -10,6 +10,7 @@
 * Jay Batzner
 * Eve Beglarian
 * Luciano Berio
+* Lisa Bielawa
 * Harrison Birtwistle
 * Pierre Boulez
 * Martin Bresnick
@@ -49,6 +50,7 @@
 * Meredith Monk
 * Paula Mathusen
 * Missy Mazzoli
+* Cindy McTee
 * Olivier Messaien
 * Darius Milhaud
 * Andrew Norman
@@ -80,6 +82,7 @@
 * Igor Stravinsky
 * Steven Stuckey
 * Morton Subotnick
+* James Tenney
 * Augusta Read Thomas
 * Anna Thorvaldsdóttir
 * Joan Tower
