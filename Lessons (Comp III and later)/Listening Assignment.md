@@ -31,6 +31,6 @@ Posts are due on Sunday evenings.
 
 ## Listening Schedule
 
-{{listening-sched/2016-08.md}}
+{{listening-sched/2017-01.md}}
 
 [^long]: This work is a little longer than some others on the list. Be sure to give yourself plenty of time to listen thoroughly.
