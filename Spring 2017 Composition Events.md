@@ -14,7 +14,14 @@ Nicole Paglialonga, violin and Francesca Khalifa, piano will read student compos
 - Thursday, 9 February, 8p
 - UCF Rehearsal Hall
 
-## Guest Composer Shawn Allison, recital
+## Guest Composer Thomas Sleeper Masterclass
+
+- Thursday, 16 February, 11a-12:30p
+- PAC T204
+
+The UCF Symphony Orchestra will be performing Sleeper's music on Saturday, 18 February, 7p at St. Lukes (Oviedo). I would also encourage you to attend any of the rehearsals you can this week.
+
+## Guest Composer Shawn Allison Recital
 
 - Friday, 17 February, 8p
 - UCF Rehearsal Hall
@@ -28,14 +35,14 @@ UCF students present a concert of works by Shawn Allison, guest composer for thi
 
 Composers from three area universities will share music with one another. Guest composer Shawn Allison will present a masterclass on writing for voice. The day will conclude with a performance of student works at 4pm in the RH.
 
-## Kevin Malone Masterclass
+## Guest Composer Kevin Malone Masterclass
 
-- Monday, 21 February, 11:30a
+- Monday, 20 February, 11:30a
 - PAC T204
 
-Guest composer Kevin Malone from the University of Manchester will be giving a presentation during our normal studio class time. 
+Guest composer Kevin Malone from the University of Manchester will be giving a presentation during our normal studio class time.
 
-## Michael Lowenstern, bass clarinet presentation
+## Guest Composer-performer Michael Lowenstern, bass clarinet presentation
 
 - Friday, 24 February, 10:30a
 - PAC M260
