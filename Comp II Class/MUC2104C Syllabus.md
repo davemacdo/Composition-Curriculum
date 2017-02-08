@@ -34,22 +34,22 @@ Students must carry at least a B average through these two core theory courses.
 This course is divided into three units.
 
 - Unit 1: Extended Techniques and Non-traditional Notation
-    - Class Meetings: Jan. 9, 11, 17, 19
-    - Lessons: Jan. 23, 25, 30, Feb. 1
+    - Class Meetings: Jan. 9, 11, (no class 1/16), 18, 23, 25
+    - Lessons: Jan. 30, Feb. 1
     - _Project due: Feb. 3 by 5pm_
-    - Project readings: Feb. 6, 8
+    - Project readings (M260): Feb. 6, 8
 - Unit 2: Folk and Popular Influences
     - Class Meetings: Feb. 13, 15, 20, 22
     - Lessons: Feb. 27, Mar. 1, 6, 8
     - _Project due: Mar. 10 by 5pm_
     - _Spring Break!_
-    - Project readings: Mar. 20, 22
+    - Project readings (M260): Mar. 20, 22
 - Unit 3: Computer Music (this may change)
     - Class Meetings: Mar. 27, 29, Apr. 3, 5
     - Lessons: Apr. 10, 12, 17, 19
 	- _Project due: Apr. 21 by 5pm_
 - Listening exam: Apr. 24
-- Final reading session: Monday, 1 May, 10:00am-12:50pm
+- Final reading session (Location TBD): Monday, 1 May, 10:00am-12:50pm
 
 During the periods marked "lessons", we will not meet as a full class. Instead, students will schedule individual 30-minute lessons with the instructor. Project readings will be rough sight-reading sessions of student compositions. Students _must_ be in attendance to _listen to_ and _perform_ one another's works.
 
