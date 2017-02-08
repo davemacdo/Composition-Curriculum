@@ -28,6 +28,7 @@
 * Alex Gardner
 * Benjamin Grosser
 * Sofia Gubaidulina
+* Georg Friedrich Haas
 * Ted Hearne
 * Jennifer Higdon
 * Paul Hindemith
