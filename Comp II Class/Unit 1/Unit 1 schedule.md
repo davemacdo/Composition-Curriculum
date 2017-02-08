@@ -13,14 +13,24 @@ This unit we will focus on extended techniques and non-traditional notation.
 
 ### Monday, 16 January
 
-- Earle Brown: _December, 1952_
-- Cage: _Aria_ (1958)
-	- [score](http://4.bp.blogspot.com/-s8R1h5LtHPg/T2PG8ktEJPI/AAAAAAAAC2c/IrUxZGD8Cqc/s1600/Earle+Brown,+December+1952.jpg)
-	- [realization](https://youtu.be/pXoLIDQPO1k)
+Martin Luther King, Jr. Day. No class.
 
 ### Wednesday, 18 January
 
+- Earle Brown: _December, 1952_ and _4 Systems_ (1954)
+	- [score](http://4.bp.blogspot.com/-s8R1h5LtHPg/T2PG8ktEJPI/AAAAAAAAC2c/IrUxZGD8Cqc/s1600/Earle+Brown,+December+1952.jpg)
+	- [realization](https://youtu.be/pXoLIDQPO1k)
+	- [score](http://www.earle-brown.org/images/work/full.12.jpg)
+	- see Spotify list for realization
+- Cage: _Aria_ (1958)
+
+### Monday, 23 January
+
 - Penderecki: _Threnody for the Victims of Hiroshima_ (1960)
+
+### Wednesday, 25 January
+
+- Notation experiment readings
 
 ### Further Listening
 
