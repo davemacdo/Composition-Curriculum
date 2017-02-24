@@ -38,7 +38,7 @@ This course is divided into three units.
     - Lessons: Jan. 30, Feb. 1
     - _Project due: Feb. 3 by 5pm_
     - Project readings (M260): Feb. 6, 8
-- Unit 2: Folk and Popular Influences
+- Unit 2: Mixing Traditions
     - Class Meetings: Feb. 13, 15, 20, 22
     - Lessons: Feb. 27, Mar. 1, 6, 8
     - _Project due: Mar. 10 by 5pm_
