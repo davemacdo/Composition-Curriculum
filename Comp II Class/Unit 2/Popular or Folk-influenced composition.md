@@ -11,7 +11,7 @@ Each of these is required. Submit all digital files via Webcourses. Bring paper 
 * **PDF**:
     * full score, either hand-written or computer-engraved, this includes graphic scores or instruction-based scores
 * **PDF**:
-    * Reflection: A brief written description of the way you addressed extended techniques and unconventional notation in this composition (100-200 words).
+    * Reflection: A brief written description of the way you addressed a popular or folk influence in this composition (100-200 words).
 * **Paper submission**:
     * hard copy of the score and parts for reading. *Performance materials should be clean, clear, and professional. If you aren't sure what your score or parts should look like, compare them to scores and parts from a major publisher.*
 
