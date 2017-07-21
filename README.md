@@ -13,4 +13,4 @@ I am happy to read and consider pull requests. However, this is my main repo for
 A few things about our curriculum at UCF:
 
 * The courses included here are private lessons for upper division undergraduates and graduate students.
-* Most students will be working with this for four semesters, after prerequisites and application/interview.
+* Most students will be working with this curriculum for six semesters: two semesters of Comp 1-2 class and four semesters of lessons. 

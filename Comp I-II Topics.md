@@ -1,14 +1,14 @@
-# Composition 1 and 2 Topics
+# Composition I and II Topics
 
 ## Units
 
-### Composition 1
+### Composition I
 
 - Tonality and scales
 - Motivic development
 - Rhythm and meter
 
-### Composition 2
+### Composition II
 
 - Extended techniques and unconventional notation
 - Popular and folk influences
