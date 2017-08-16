@@ -1,6 +1,6 @@
 ## University of Central Florida School of Performing Arts
 
-# Music Composition Syllabus, 2016-17
+# Music Composition Syllabus, 2017-18
 
 ### MUC3105C, 4106C, 5112, 6251
 
@@ -15,16 +15,16 @@ Over several semesters (Composition III-IV for undergraduate students, Compositi
 
 #### Objectives
 
-* develop compositional skills and fluency with a variety of media, including chamber, choral/vocal, large ensemble music, and others according to student interest
-* develop technical facility in writing for various instruments and voices
-* create works with a variety of forms and durations
-* build a well-balanced portfolio of works
-* produce and present professional-quality printed scores and parts
-* practice skills associated with arranging and presenting performances of one’s music, including speaking and writing about it
+- develop compositional skills and fluency with a variety of media, including chamber, choral/vocal, large ensemble music, and others according to student interest
+- develop technical facility in writing for various instruments and voices
+- create works with a variety of forms and durations
+- build a well-balanced portfolio of works
+- produce and present professional-quality printed scores and parts
+- practice skills associated with arranging and presenting performances of one’s music, including speaking and writing about it
 
 #### Course Materials
 
-There is no required textbook, but a copy of a good orchestration book will come in handy. I recommend Samuel Adler’s *The Study of Orchestration* or Kent Kennan’s *The Technique of Orchestration*. (UCF Orchestration courses use the Adler.)
+There is no required textbook, but a copy of a good orchestration book will come in handy. I recommend Samuel Adler’s _The Study of Orchestration_ or Kent Kennan’s _The Technique of Orchestration_. (UCF Orchestration courses use the Adler.)
 
 Students will work on scores in a variety of formats, depending on the project. However, all students should be prepared to work in both paper-and-pencil and digital notation. Each student may choose whatever professional scoring application they are most comfortable with for final versions of scores.
 
@@ -54,7 +54,7 @@ See assignment rubrics for further detail.
 
 Each student will have a one-hour lesson for each week of the term. Lessons may need to be rescheduled for university holidays, schedule conflicts, illness, etc. Lessons must be made up within two weeks of the original date.
 
-Students must arrive at lessons on time. Students arriving late will be penalized two points lesson points after five minutes and four lesson points after ten minutes. Students arriving more than fifteen minutes after their scheduled lesson time will receive a zero for the lesson. Unexcused absences will result in a 0 for the lesson, and these lessons *will not be made up*. When running late or are otherwise unavailable, it is the student's responsibility to to inform the professor as early as possible.
+Students must arrive at lessons on time. Students arriving late will be penalized two points lesson points after five minutes and four lesson points after ten minutes. Students arriving more than fifteen minutes after their scheduled lesson time will receive a zero for the lesson. Unexcused absences will result in a 0 for the lesson, and these lessons _will not be made up_. When running late or are otherwise unavailable, it is the student's responsibility to to inform the professor as early as possible.
 
 #### Recital Attendance
 
