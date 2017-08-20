@@ -65,7 +65,7 @@ Louis Goldstein will perform [Triadic Memories](https://www.youtube.com/watch?v=
 - Sunday, 15 September, 7:30p
 - Timucua White House (2000 South Summerlin Ave.)
 
-Members of Alterity (see below) perform wind quintets by central Florida composers, including the premiere of a new work by Dr. MacDonald. 
+Members of Alterity (see below) perform wind quintets by central Florida composers, including the premiere of a new work by Dr. MacDonald.
 
 ## [Alterity.CO Inaugural Concert at Factur](https://www.alterityco.org/chamber-orchestra)
 
@@ -76,14 +76,6 @@ Members of Alterity (see below) perform wind quintets by central Florida compose
 > In our Inaugural concert, Alterity Chamber Orchestra will perform the music of John Adams, Nina Young, Julius Eastman, and Amy Beth Kirsten.
 
 This will be the first performances with a new music chamber orchestra here in Orlando. It's really exciting to have a startup orchestra focused on the music of today, right here in our city.
-
-## Lou Harrison Centennial with Sarah Cahill
-
-- Thursday, 14 December, 7:30p
-- Timucua White House (2000 South Summerlin Ave.)
-- tickets, TBA
-
-Sarah Cahill is celebrating the centennial of composer Lou Harrison. Harrison studied with Henry Cowell and is associated with early American experimental composers like John Cage and Harry Partch. Among other things, Harrison's music is known for alternative tuning systems, microtones, and non-Western influences.
 
 ## UCF New Music Ensemble
 
@@ -98,3 +90,11 @@ The first concert of the new new music ensemble. Attendance at this event is _re
 - UCF Rehearsal Hall
 
 **Student composers may submit works to this program.** Program submissions due 2 November. Rehearsal recordings due 16 November. Attendance at this event is _required_ for all composition majors.
+
+## Lou Harrison Centennial with Sarah Cahill
+
+- Thursday, 14 December, 7:30p
+- Timucua White House (2000 South Summerlin Ave.)
+- tickets, TBA
+
+Sarah Cahill is celebrating the centennial of composer Lou Harrison. Harrison studied with Henry Cowell and is associated with early American experimental composers like John Cage and Harry Partch. Among other things, Harrison's music is known for alternative tuning systems, microtones, and non-Western influences.
