@@ -12,7 +12,7 @@ For each discussion, *you must make at least two posts*.
 
 ### Initial Post
 
-Your first post should be a minimum of 300 words. Express your thoughts on the piece. Focus on objective statements about how the work is constructed. Consider addressing the following (not all will apply to every piece):
+_Make your first post to the discussion by the end of the day on Thursday._ This allows the rest of the class to read and reflect on what you've written for response posts. Your first post should be a minimum of 300 words. Express your thoughts on the piece. Focus on objective statements about how the work is constructed. Consider addressing the following (not all will apply to every piece):
 
 * What about the piece do you find interesting?
 * How does the composer make use of the instruments or voice types used?
@@ -31,6 +31,4 @@ Posts are due on Sunday evenings.
 
 ## Listening Schedule
 
-{{listening-sched/2017-01.md}}
-
-[^long]: This work is a little longer than some others on the list. Be sure to give yourself plenty of time to listen thoroughly.
+{{listening-sched/2017-08.md}}
