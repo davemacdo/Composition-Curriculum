@@ -1,8 +1,8 @@
 ## University of Central Florida School of Performing Arts
 
-# Secondary Music Composition Syllabus, Proposed
+# Secondary Music Composition Syllabus
 
-### MUC????C
+### Independent Study
 
 Instructor: Dr. David MacDonald
 Email: David.MacDonald@ucf.edu
@@ -49,7 +49,7 @@ The semester grade will be weighted based on the following point scales.
 | 5 pts.,<br>recital attendance | Composers are expected to attend all Composition Forums, Area Recitals, and Collide concerts. Other events may be required at the instructor's discretion. |
 | 5 pts.,<br>masterclass attendance | All composers are expected to attend the weekly composition masterclass. |
 
-See assignment rubrics for further detail.
+See assignment rubrics for further detail. Composers enrolled in secondary lessons (unlike those enrolled in Comp III-VI) are encouraged to present a performance of their work on campus; but, this is not required. 
 
 #### Lesson Attendance
 
