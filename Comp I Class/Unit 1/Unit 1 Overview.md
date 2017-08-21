@@ -31,7 +31,11 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 
 ## Further Listening
 
-These will not be directly discussed in class, but you should study these recordings while working on the unit project (during lesson weeks). They may appear on the final listening examination as well. You are responsible for knowing them on the listening exam, along with 
+These will not be directly discussed in class, but you should study these recordings while working on the unit project (during lesson weeks). They may appear on the final listening examination as well. You are responsible for knowing them on the listening exam, along with
 
 - Debussy: _La Mer_
 - Schoenberg: _Pierrot Lunaire_
+
+## Don't forget
+
+You can choose any two composition concerts to write about for your performance attendance assignments. These can be completed at any time throughout the semester; but, you'll be happier if you get them done sooner. More importantly, the sooner you write the reflection after the concert, the easier it will be. 
