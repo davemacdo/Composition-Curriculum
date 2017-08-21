@@ -33,22 +33,22 @@ Students must carry at least a B average through these two core theory courses.
 This course is divided into three units.
 
 - Unit 1: Tonality
-    - Class Meetings: Aug. 22, 24, 29, 31
+    - Class Meetings: Aug. 21, 23, 28, 30
     - Lessons: Sept. 5-14
-    - _Project due: Sept. 16 by 5pm_
-    - Project readings: Sept. 19, 21
+    - _Project due: Sept. 15 by 5pm_
+    - Project readings (**PAC M120**): Sept. 18, 20
 - Unit 2: Motivic Development
-    - Class Meetings: Sept. 26, 28, Oct. 3, 5
-    - Lessons: Oct. 10-19
-    - _Project due: Oct. 21 by 5pm_
-    - Project readings: Oct. 24, 26
+    - Class Meetings: Sept. 25, 27, Oct. 2, 4
+    - Lessons: Oct. 9-19
+    - _Project due: Oct. 20 by 5pm_
+    - Project readings (**PAC M120**): Oct. 23, 25
 - Unit 3: Rhythm and Meter
-    - Class Meetings: Oct. 31, Nov. 2, 7, 9
-    - Lessons: Nov. 14-23
-    - _Project due: Nov. 27 by noon_ - Note: This is the Sunday of Thanksgiving weekend!
-    - Project readings: Nov. 28, 30
+    - Class Meetings: Oct. 30, Nov. 1, 6, 8
+    - Lessons: Nov. 13-22
+    - _Project due: Nov. 26 by noon_ - Note: This is the Sunday of Thanksgiving weekend!
+    - Project readings (**PAC M120**): Nov. 27, 29
 - Listening Exam (Final examination period)
-    - Monday, 12 Dec., 10:00am
+    - Monday, 4 Dec., 10:00am
 
 During the periods marked "lessons", we will not meet as a full class. Instead, students will schedule individual 30-minute lessons with the instructor. Project readings will be rough sight-reading sessions of student compositions. Students _must_ be in attendance to _listen to_ and _perform_ one another's works.
 
@@ -62,7 +62,6 @@ During the periods marked "lessons", we will not meet as a full class. Instead, 
 
 * **Notebook of blank staff paper and pencil**: Do not use staff paper that includes pre-printed clefs, barlines, instrument names, tablature lines, etc. Do not use a pen.
 * **USB flash drive**: We will sometimes be working on the computers in the classroom. You will need to save your work to your own storage.
-* **Headphones with a 1/4" adapter**: For use during in-class work times.
 
 ##### Supplementary materials
 
@@ -89,7 +88,7 @@ In general, subjective assessments will be made by the instructor regarding prep
 
 
 * **Attendance and participation**: Attendance and class participation is expected, and will be taken by sign-in sheet. The attendance grade will be proportional to the number of class meetings and reading sessions the student attends, allowing **_two_** unexcused absences only. Students will not be excused from lessons. Because members of the class will rely on one another, reading sessions will only be excused for university sanctioned travel or documented medical or family emergency, and only if the instructor is notified as soon as possible of the conflict.
-* **Études, exercises, discussions, and lessons**: Small composition assignments, written/in-class discussions, and other exercises will be assigned at various points in the term. Each student will meet for an individual lesson with the instructor one to two times in preparation for each composition assignment.
+* **Études, exercises, discussions, and lessons**: Small composition assignments, written/in-class discussions, and other exercises will be assigned at various points in the term. Each student will meet for an individual lesson with the instructor one to two times in preparation for each composition assignment. Some particularly large assignments may be double the usual weight. These will be clearly indicated in the assignment specification or rubric.
 * **Listening Exam**: Various listening activities will be assigned throughout the semester. Some will have discussion boards attached, others will be presented in class. All of these may be included on a listening identification exam at the end of the semester.
 * **Concerts**: Students must attend at least two concerts featuring new music and write a brief summary of their experience.
 
