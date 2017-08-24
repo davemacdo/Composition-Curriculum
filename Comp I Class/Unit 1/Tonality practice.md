@@ -6,20 +6,16 @@ Select a set of three scales from the handout in class or from others you know. 
 
 ## Part 2: Melody
 
-Create a one- or two-phrase melody of at least seven measures. Express the melody using each of the four scales you have identified in Part 1. Allow the melody to adapt to each of the scales, expressing what is unique about the scale while retaining its basic contour, rhythm, and phrasing. The melody does not need to use every pitch in each scale, but it should adequately express the scale.
+Create a one- or two-phrase melody of at least seven measures. Express the melody using each of the four scales you have identified in Part 1. Allow the melody to adapt to each of the scales, expressing what is unique about the scale **while retaining its basic contour, rhythm, and phrasing**. The melody does not need to use every pitch in each scale, but it should adequately express the scale.
 
-## Part 3: Étude
+## Stay tuned ...
 
-Compose a brief, unaccompanied solo étude[^solo] for _your own instrument_, 25–35 measures long, that uses some (not all) of the forms of your melody along with harmony. Your étude should express a clear tonal center (which can move) _without_ using common-practice, functional harmony. Please come to class prepared to _perform_ your piece and present it for feedback.
+Our next assignment will be to take these melodic ideas and string them together into a simple étude for solo-line instrument, unaccompanied. 
 
 ## Deliverables
 
-- **PDF (preferred) or paper:**
+- **PDF:**
     - Your four scales, written out on a staff. (Three existing, one of your own creation.)
     - Four variations of your melody, one for each scale.
-- **PDF:**
-    - Your complete étude score.
 
-Bring your instrument to class to present your work!
-
-[^solo]: In order to focus on melody, pianists and guitarists should focus on a solo line. Treat your instrument as a violin or cello. (Similar to a one-hand piano work.)
+Be prepared to present your melodies in class either at the piano or on your own instrument.
