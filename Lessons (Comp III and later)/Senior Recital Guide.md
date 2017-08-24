@@ -25,6 +25,6 @@ All recital programs are subject to the approval of your primary composition pro
 	- Faculty with give feedback and suggest revisions on program notes.
 	- Verify any technical or logistical needs at this point, such as audio playback, video projector, multi-piano works, or large percussion setups.
 - You are responsible for scheduling your hearing at a time that suits the members of the committee and the performers at least two weeks before the recital date.
-	- Live performances on the hearing are preferred. However, works for five players or more can be recorded if scheduling does not allow all performers to attend the hearing. These recordings must be complete, unedited, and include the same personnel that will perform on the recital. Other recorded hearings of individual works may be considered on a case-by-case basis. 
+	- Live performances on the hearing are preferred. However, works for five players or more can be recorded if scheduling does not allow all performers to attend the hearing. These recordings must be complete, unedited, and include the same personnel that will perform on the recital. Other recorded hearings of individual works may be considered on a case-by-case basis.
 	- Submit digital (PDF) copies of all scores, along with revised program and notes, to all members of the committee before the hearing.
 	- Bring a bound copy of each score, as well as a printed copy of the program and notes.
