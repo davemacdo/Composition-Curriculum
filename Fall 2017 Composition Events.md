@@ -62,7 +62,7 @@ Louis Goldstein will perform [Triadic Memories](https://www.youtube.com/watch?v=
 
 ## Alterity Wind Quintet
 
-- Sunday, 15 September, 7:30p
+- Sunday, 15 October, 7:30p
 - Timucua White House (2000 South Summerlin Ave.)
 
 Members of Alterity (see below) perform wind quintets by central Florida composers, including the premiere of a new work by Dr. MacDonald.
