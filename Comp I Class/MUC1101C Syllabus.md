@@ -7,7 +7,7 @@ Email: David.MacDonald@ucf.edu
 Class Meetings: M/W, 10:30-11:20am
 Office: PAC M230
 Office Hours: By Appointment
-Term: Fall 2016
+Term: Fall 2017
 
 #### Description
 
