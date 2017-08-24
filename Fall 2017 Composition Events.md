@@ -2,13 +2,6 @@
 
 Events are free unless otherwise noted.
 
-## [Falling Stars: An Evening of New Works for String Ensemble](http://timucua.com/event/new-string-music-by-cf2/)
-
-- Sunday, 20 August, 7:30p
-- Timucua White House (2000 South Summerlin Ave.)
-
-Members of new music chamber orchestra Alterity performing music by composers living in Central Florida.
-
 ## [Central Florida Composers Forum 2017 Salon](http://timucua.com/event/fifth-annual-composers-salon/)
 
 - Sunday, 10 September, 7:30p
