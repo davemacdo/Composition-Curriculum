@@ -20,4 +20,4 @@ Compose a brief, unaccompanied solo Ã©tude[^solo] for _your own instrument_, 25â
 
 Bring your instrument to class to present your work! These don't need to be fully realized performances; we're just reading for one another. No pressure.
 
-[^inst]: In order to focus on melody, pianists and guitarists should focus on a solo line. Treat your instrument as a violin or cello, similar to a one-hand piano work. Vocalists should plan to sing their work as a vocalise (without text).
+[^solo]: In order to focus on melody, pianists and guitarists should focus on a solo line. Treat your instrument as a violin or cello, similar to a one-hand piano work. Vocalists should plan to sing their work as a vocalise (without text).
