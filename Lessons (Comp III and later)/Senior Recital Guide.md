@@ -18,10 +18,12 @@ All recital programs are subject to the approval of your primary composition pro
 - Check the department calendar online to be sure your five options are available. Allow for a 30-minute setup period before the recital.
 - **All spring-semester composition recitals must be presented _before_ UCF Celebrates the Arts, preferably by the end of March!** This will hopefully prevent us from having to compete for rooms, equipment, and most importantly, performers' time.
 
+<!-- BREAK -->
+
 ## Hearing and program approval
 
 - By the end if week 2 of the semester, secure the participation of a three-member recital hearing committee. The committee must include Dr. MacDonald and two other full-time faculty members in the music department.
-- Submit a complete draft of the recital program, including a program note for each piece on the program, a minimum of four weeks before the recital. This should be emailed to Dr. MacDonald and all other members of your committee.
+- Submit a complete draft of the recital program, including a program note for each piece on the program, a minimum of four weeks before the recital (two weeks before the hearing). This should be emailed to Dr. MacDonald and all other members of your committee.
 	- Faculty with give feedback and suggest revisions on program notes.
 	- Verify any technical or logistical needs at this point, such as audio playback, video projector, multi-piano works, or large percussion setups.
 - You are responsible for scheduling your hearing at a time that suits the members of the committee and the performers at least two weeks before the recital date.
