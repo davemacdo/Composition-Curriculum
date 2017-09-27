@@ -2,6 +2,8 @@
 
 ## University of Central Florida School of Performing Arts
 
+## <span style="color:red;">Updated 22 Sep to reflect Hurricane Irma schedule changes</span>
+
 Instructor: Dr. David MacDonald
 Email: David.MacDonald@ucf.edu
 Class Meetings: M/W, 10:30-11:20am
@@ -34,12 +36,12 @@ This course is divided into three units.
 
 - Unit 1: Tonality
     - Class Meetings: Aug. 21, 23, 28, 30
-    - Lessons: Sept. 5-14
-    - _Project due: Sept. 15 by 5pm_
-    - Project readings (**PAC M120**): Sept. 18, 20
+    - Lessons: Sept. 5-19
+    - _Project due: Sept. 21 by 5pm_
+    - Project readings (**PAC M120**): Sept. 25, 27
 - Unit 2: Motivic Development
-    - Class Meetings: Sept. 25, 27, Oct. 2, 4
-    - Lessons: Oct. 9-19
+    - Class Meetings: Oct. 2, 4, 9, 11
+    - Lessons: Oct. 16-19
     - _Project due: Oct. 20 by 5pm_
     - Project readings (**PAC M120**): Oct. 23, 25
 - Unit 3: Rhythm and Meter
