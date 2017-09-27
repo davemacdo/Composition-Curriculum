@@ -6,7 +6,7 @@ Select a set of three scales from the handout in class or from others you know. 
 
 ## Part 2: Melody
 
-Create a one- or two-phrase melody of at least seven measures. Express the melody using each of the four scales you have identified in Part 1. Allow the melody to adapt to each of the scales, expressing what is unique about the scale **while retaining its basic contour, rhythm, and phrasing**. The melody does not need to use every pitch in each scale, but it should adequately express the scale.
+Create a one- or two-phrase melody of at least seven measures. Express the melody four times, each using one of the four scales you have identified in Part 1. Allow the melody to adapt to each of the scales, expressing what is unique about the scale **while retaining its basic contour, rhythm, and phrasing**. The melody does not need to use every pitch in each scale, but it should adequately express the scale.
 
 ## Stay tuned ...
 
