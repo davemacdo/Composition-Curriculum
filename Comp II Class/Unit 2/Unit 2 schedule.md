@@ -13,7 +13,7 @@ This unit we will focus music which connects to popular and folk music.
 
 ### Wednesday, 15 February
 
-- Schuller: Sextet for Bassoon, String Quartet, and Piano
+- Alex Temple: _The Man Who Hated Everything_ (2015) [YouTube](https://youtu.be/ieatSGff-rE)
 
 ### Monday, 20 February
 
@@ -27,3 +27,4 @@ This unit we will focus music which connects to popular and folk music.
 ### Further Listening
 
 - Little: _Soldier Songs_ Part II, Warrior (2006)
+- Schuller: Concertino for Jazz Quartet and Orchestra (1960)
