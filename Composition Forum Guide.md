@@ -15,15 +15,16 @@ All UCF composition majors are eligible to present works on the Composition Foru
 
 ## Program Submission
 
-**Four weeks before** the date of the Composition Forum, please submit the following information to Dr. MacDonald by [email](mailto:David.MacDonald@ucf.edu).
+**Four weeks before** the date of the Composition Forum, please submit the following information to Dr. MacDonald. A link to a submission form will be sent via email.
 
 * Your name
 * Title of your work
 * Instrumentation
 * Approximate duration
 * Performers' names
+* Program note
 
-**Two weeks before** the date of the Composition Forum, please submit a rehearsal recording[^recording] of your piece to Dr. MacDonald via Dropbox or Google Drive. It doesn't have to be fancy. A recording from your phone is fine. *Failure to submit this recording will result in your piece being pulled from the program.*
+**Two weeks before** the date of the Composition Forum, please submit a rehearsal recording[^recording] of your piece to Dr. MacDonald. It doesn't have to be fancy. A recording from your phone is fine. *Failure to submit this recording will result in your piece being pulled from the program.*
 
 ## Working With Performers
 
