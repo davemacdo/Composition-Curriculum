@@ -1,6 +1,4 @@
-Title: Program Notes
-
-# Writing Program Notes
+Title: Writing Program Notes
 
 Program notes are challenging for everyone. There are lots of reasons you might struggle to write them. 
 
@@ -28,4 +26,4 @@ Invite us into your music and show us around a bit. You have some interesting mu
 
 ## Conclusion
 
-Writing a program note can often turn out to be as challenging---or sometimes more challenging---than writing the piece of music they accompany. However, a good program note can enlighten your audience and get them even more excited to hear your music. It's also excellent practice for talking about your music, because it gives you some practice in putting together a coherent set of thoughts that you can use when speaking with listeners, performers, conductors, and friends. Communicating effectively about music is one way you can stand out among the many immensely skilled and creative musicians. 
+Writing a program note can often turn out to be as challenging as---or sometimes more challenging than---writing the piece of music they accompany. However, a good program note can enlighten your audience and get them even more excited to hear your music. It's also excellent practice for talking about your music, because it gives you some practice in putting together a coherent set of thoughts that you can use when speaking with listeners, performers, conductors, and friends. Communicating effectively about music is one way you can stand out among the many immensely skilled and creative musicians. 
