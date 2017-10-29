@@ -4,7 +4,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 
 <iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3Adavemacdo%3Aplaylist%3A2WpM0oSSfnxwxBAsR3a0Jv" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
 
-[direct link](https://open.spotify.com/user/davemacdo/playlist/2WpM0oSSfnxwxBAsR3a0Jv)
+[direct link][1]
 
 ## Monday, 2 October
 
@@ -17,7 +17,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 ## Wednesday, 4 October
 
 - Reading and homework (before class)
-	- Deemer: ["Composer As Chef ... or Architect?"](http://www.newmusicbox.org/articles/Composer-as-Chefor-Architect/) in [_NewMusicBox_](http://www.newmusicbox.org)
+	- Deemer: ["Composer As Chef ... or Architect?"][2] in [_NewMusicBox_][3]
 	- Homework: Motive Practice 1
 - Listening (in class)
 	- Rzewski: _The People United Will Never Be Defeated!_ (1975)
@@ -28,8 +28,8 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 	- Wilkins: Ch. 3 "Structures" from _Creative Music Composition_
 	- Homework: Motive Practice 2
 - Listening (in class)
-	- Bartók: _Music for Strings, Percussion, and Celesta_ (1937) - [score](http://imslp.eu/Files/imglnks/euimg/d/dd/IMSLP16963-Bartok_-_Music_for_Strings__Percussion_and_Celesta__orch._score_.pdf)
-	- Bartók: _Contrasts_, mvt. 1 (1942) - [score](http://imslp.eu/Files/imglnks/euimg/f/f2/IMSLP05196-Bartok_-_Contrasts_for_piano__violin_clarinet.pdf)
+	- Bartók: _Music for Strings, Percussion, and Celesta_ (1937)
+	- Bartók: _Contrasts_, mvt. 1 (1942)
 
 ## Wednesday, 11 October
 
@@ -58,3 +58,7 @@ These will not be directly discussed in class, but you should study these record
 ## Don't forget
 
 You can choose any two composition concerts to write about for your performance attendance assignments. These can be completed at any time throughout the semester; but, you'll be happier if you get them done sooner. More importantly, the sooner you write the reflection after the concert, the easier it will be.
+
+[1]:	https://open.spotify.com/user/davemacdo/playlist/2WpM0oSSfnxwxBAsR3a0Jv
+[2]:	http://www.newmusicbox.org/articles/Composer-as-Chefor-Architect/
+[3]:	http://www.newmusicbox.org
