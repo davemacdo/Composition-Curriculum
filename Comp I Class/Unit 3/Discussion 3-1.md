@@ -1,4 +1,4 @@
-# Discussion: Reich
+Title: Discussion - Steve Reich
 
 Listen to two very different recordings of music by Steve Reich: _Clapping Music_ (1972) and the first movement of _Tehillim_ (1981).
 
