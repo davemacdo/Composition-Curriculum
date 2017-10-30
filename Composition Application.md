@@ -1,6 +1,6 @@
 # UCF Composition Application Portfolio Requirements
 
-## Spring 2017 Submissions
+## Spring 2018 Submissions
 
 Students applying for the Bachelor of Music in Composition program's professional sequence should submit a portfolio for review. The portfolio should consist of compositions that the applicant feels represents their best and most mature work.
 
@@ -13,9 +13,9 @@ Students applying for the Bachelor of Music in Composition program's professiona
 	* scores (where applicable) should be bound, computer-engraved, performance-ready copies
 	* submit scores (not parts) in both digital and in hard copy to Dr. David MacDonald, PAC M230 directly or in the faculty mailboxes in the music building
 	* recordings of all works are *required*; live performance or rehearsal recordings preferred, computer realizations acceptable
-	* [Submit _recordings and score PDFs_ digitally here](https://www.dropbox.com/request/tpXbp68dm7vAe77a5Fei). Please do not email or submit your files another way.
+	* [Submit _recordings and score PDFs_ digitally here](https://www.dropbox.com/request/V7uvKWop3W546wdcNURy). Please do not email or submit your files another way.
 
-## Submission Deadline: Friday, April 14
+## Submission Deadline: Friday, 13 April
 
 After the submission deadline, each student will schedule an interview with the composition faculty to discuss their portfolio. This will occur near the end of the semester, during or immediately following finals week.
 
