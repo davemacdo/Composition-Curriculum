@@ -12,7 +12,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 	- Dargel: _"On This Date Every Year"_ from _Every Day is the Same Day_ (2010)
 		- This track is actually available for free from Dargel directly. <http://automaticheartbreak.com/everyday/>
 
-## Wednesday, 2 November
+## Wednesday, 1 November
 
 - Reading and homework (before class)
 	- Discussion: Steve Reich
@@ -28,7 +28,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 	- Messiaen: _6. Danse de la fureur, pour les sept trompettes_ from _Quator pour la Fin du Temps_ (Quartet for the End of Time, 1941)
 	- Carter: _Canaries_ from Eight Pieces for Timpani (1950-66)
 
-## Wednesday, 9 November
+## Wednesday, 8 November
 
 - Reading and Homework (before class)
 	- Tempo Modulation Practice
@@ -37,7 +37,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 
 ## Individual Meetings
 
-- 13-22 November (two meetings each)
+- 13-22 November (two meetings each) - [_Sign-up for a time._](https://docs.google.com/spreadsheets/d/1Ohk-XvRVvRrRHg3kG4NTq7tJlmFybY30iohmCZM6gik/edit?usp=sharing)
 
 ## Composition Project
 
