@@ -17,8 +17,8 @@ I've compiled this Spotify playlist that includes everything except the Dargel, 
 - Debussy: Prelude No. 4 from Book I (1910-11)
 - Debussy: _Syrinx_ (1913)
 - Lutosławski: _Concerto for Orchestra_, mvt. 1 (1945)
-- Messiaen: _Quartet for the End of Time_ Mvt. 3 "Abyss of the birds" and Mvt. 6 "Dance of the Furies for Seven Trumpets" (1941)
-- Ravel: String Quartet in F, Mvt. II (1902-03)
+- Messiaen: _Quartet for the End of Time_ mvt. 3 "Abyss of the birds" and mvt. 6 "Dance of the Furies for Seven Trumpets" (1941)
+- Ravel: String Quartet in F, mvt. 2 (1902-03)
 - Reich: _Clapping Music_ (1972)
 - Reich: _Tehillim_ (1981)
 - Reich: _Violin Phase_ (1967)
@@ -28,3 +28,4 @@ I've compiled this Spotify playlist that includes everything except the Dargel, 
 - Shostakovich: String Quartet No. 8 (1960)
 - Stravinsky: _Histoire du Soldat_ (Soldier's Tale, 1918) - excerpts from part 1
 - Stravinsky: _Rite of Spring_ (1913)
+- Walker: Piano Sonata No. 2 (1956)
