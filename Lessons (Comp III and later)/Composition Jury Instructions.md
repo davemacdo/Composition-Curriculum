@@ -10,7 +10,7 @@ Submit a finished copy of all compositions completed (or partially completed) du
 
 - For works with a written score, this will include _one printed and bound copy_ of the score, as well as a digital copy in PDF format.
 - A recording should also be submitted digitally. For acoustic works, this should be a recording of a performance or reading session if possible. MIDI realizations are accepted only when recordings are not possible.
-- A list of all completed works (from the current term and before), including _year completed_, _instrumentation_, and _duration_. This should be submitted in PDF format as well. 
+- A list of all completed works (from the current term and before) in reverse chronological order. Include the _year completed_, _instrumentation_, and _duration_. This should be submitted in PDF format as well. 
 
 ### [Upload PDFs and Recordings HERE](https://www.dropbox.com/request/sH4aMCRFPWHAqPoQ2orE)
 
