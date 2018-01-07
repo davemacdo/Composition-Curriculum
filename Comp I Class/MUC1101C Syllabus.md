@@ -80,7 +80,7 @@ In general, subjective assessments will be made by the instructor regarding prep
 
 | Grades ||
 | :---: | --- |
-| 50 | attendance and participation |
+| 15 | attendance and participation |
 | 5 each | études, exercises, discussions, and lessons |
 | 15 | listening exam |
 | 10 each | concerts |
