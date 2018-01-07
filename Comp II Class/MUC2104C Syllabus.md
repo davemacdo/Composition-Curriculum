@@ -7,7 +7,7 @@ Email: David.MacDonald@ucf.edu
 Class Meetings: M/W, 10:30-11:20am
 Office: PAC M230
 Office Hours: By Appointment
-Term: Fall 2016
+Term: Spring 2018
 
 #### Description
 
@@ -33,25 +33,25 @@ Students must carry at least a B average through these two core theory courses.
 
 This course is divided into three units.
 
-- Unit 1: Extended Techniques and Non-traditional Notation
-    - Class Meetings: Jan. 9, 11, (no class 1/16), 18, 23, 25
-    - Lessons: Jan. 30, Feb. 1
-    - _Project due: Feb. 3 by 5pm_
-    - Project readings (M260): Feb. 6, 8
+- Unit 1: Extended Techniques and Unconventional Notation
+    - Class Meetings: Jan. 8, 10, (no class 1/15, MLK Day), 17, 22, 24
+    - Lessons (**PAC M230**): Jan. 29 - Feb. 1
+    - _Project due: Feb. 2 by 5pm_
+    - Project readings (**PAC M263**): Feb. 5, 7
 - Unit 2: Mixing Traditions
-    - Class Meetings: Feb. 13, 15, 20, 22
-    - Lessons: Feb. 27, Mar. 1, 6, 8
-    - _Project due: Mar. 10 by 5pm_
+    - Class Meetings: Feb. 12, 14, 19, 21, 26, 28
+    - Lessons (**PAC M230**): Mar. 5 - 8
+    - _Project due: Mar. 9 by 5pm_
     - _Spring Break!_
-    - Project readings (M260): Mar. 20, 22
-- Unit 3: Computer Music (this may change)
-    - Class Meetings: Mar. 27, 29, Apr. 3, 5
-    - Lessons: Apr. 10, 12, 17, 19
-	- _Project due: Apr. 21 by 5pm_
-- Listening exam: Apr. 24
-- Final reading session (Location TBD): Monday, 1 May, 10:00am-12:50pm
+    - Project readings (**PAC M263**): Mar. 19, 21
+- Unit 3: Computer Music
+    - Class Meetings: Mar. 26, 28, Apr. 2, 4, 9, 11
+    - Lessons (**PAC M230**): Apr. 16 - 19
+	- _Project due: Apr. 20 by 5pm_
+- Listening exam: Apr. 23
+- Final reading session (location TBD): Monday, 30 Apr., 10:00am - 12:50pm
 
-During the periods marked "lessons", we will not meet as a full class. Instead, students will schedule individual 30-minute lessons with the instructor. Project readings will be rough sight-reading sessions of student compositions. Students _must_ be in attendance to _listen to_ and _perform_ one another's works.
+During the periods marked "lessons", we will not meet as a full class. Instead, students will schedule individual lessons with the instructor. Project readings will be rough sight-reading sessions of student compositions. Students _must_ be in attendance to _listen to_ and _perform_ one another's works.
 
 #### Required Course Materials
 
@@ -62,7 +62,7 @@ During the periods marked "lessons", we will not meet as a full class. Instead, 
 ##### Other materials
 
 * **Notebook of blank staff paper and pencil**: Do not use staff paper that includes pre-printed clefs, barlines, instrument names, tablature lines, etc. Do not use a pen.
-* **USB flash drive**: We will sometimes be working on the computers in the classroom. You will need to save your work to your own storage.
+* **USB flash drive**: If you want to use any of the software on the computers in the classroom, including Finale, Sibelius, or any audio software, you will need to save your work to your own storage.
 
 ##### Supplementary materials
 
@@ -79,7 +79,7 @@ In general, subjective assessments will be made by the instructor regarding prep
 
 | Grades ||
 | :---: | --- |
-| 50 | attendance and participation |
+| 15 | attendance and participation |
 | 5 each | études, exercises, discussions, and lessons |
 | 15 | listening exam |
 | 10 each | concerts |
@@ -88,8 +88,8 @@ In general, subjective assessments will be made by the instructor regarding prep
 | 50 | Composition 3 |
 
 
-* **Attendance and participation**: Attendance and class participation is expected, and will be taken by sign-in sheet. The attendance grade will be proportional to the number of class meetings and reading sessions the student attends, allowing **_two_** unexcused absences only. Students will not be excused from lessons. Because members of the class will rely on one another, reading sessions will only be excused for university sanctioned travel or documented medical or family emergency, and only if the instructor is notified as soon as possible of the conflict.
-* **Études, exercises, discussions, and lessons**: Small composition assignments, written/in-class discussions, and other exercises will be assigned at various points in the term. Each student will meet for an individual lesson with the instructor one to two times in preparation for each composition assignment.
+* **Attendance and participation**: Attendance and class participation is expected. The attendance grade will be proportional to the number of class meetings and reading sessions the student attends, allowing **_two_** unexcused absences only. Students will not be excused from lessons. Because members of the class will rely on one another, reading sessions will only be excused for university sanctioned travel or documented medical or family emergency, and only if the instructor is notified as soon as possible of the conflict.
+* **Études, exercises, discussions, and lessons**: Small composition assignments, written/in-class discussions, and other exercises will be assigned at various points in the term. Each student will meet for an individual lesson with the instructor one to two times in preparation for each composition assignment. Some particularly large assignments may be double the usual weight. These will be clearly indicated in the assignment specification or rubric.
 * **Listening Exam**: Various listening activities will be assigned throughout the semester. Some will have discussion boards attached, others will be presented in class. All of these may be included on a listening identification exam at the end of the semester.
 * **Concerts**: Students must attend at least two concerts featuring new music and write a brief summary of their experience.
 
