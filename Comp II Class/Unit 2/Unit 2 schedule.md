@@ -9,7 +9,7 @@ This unit we will focus music which connects to popular and folk music.
 ### Monday, 13 February
 
 - Bartók: String Quartet No. 5 (1936)
-- Milhaud: _La Création du monde_, Op. 81a (1923)
+- Wilson: _A City Called Heaven_ (1988)
 
 ### Wednesday, 15 February
 
