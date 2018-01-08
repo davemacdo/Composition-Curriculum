@@ -33,6 +33,8 @@ Students must have completed the four-semester musicianship sequence, as well as
 
 There is no required textbook, but a copy of a good orchestration book will come in handy. I recommend Samuel Adler’s *The Study of Orchestration* or Kent Kennan’s *The Technique of Orchestration*. (UCF Orchestration courses use the Adler.)
 
+I also recommend that students consider purchasing a copy of Elaine Gould's _Behind Bars_. This is an incredible resource on the best practices of music notation. You'd be surprised at how often our notation software gets things wrong! Gould's book will serve you for as long as you are preparing scores as a composer, arranger, or teacher. 
+
 Students will work on scores in a variety of formats, depending on the project. However, all students should be prepared to work in both paper-and-pencil and digital notation. Each student may choose whatever professional scoring application they are most comfortable with for final versions of scores.
 
 Additional score study, listening, and reading may be assigned on a case-by-case basis. Students should plan to have access to Spotify (a free account is fine) and the UCF library resources. Students may wish to upgrade to a Spotify premium account to remove ads, get higher-quality audio, and be more independent on the mobile app. The steep [student discount](https://www.spotify.com/us/student/) makes this a very good value for the price.  

@@ -70,6 +70,7 @@ During the periods marked "lessons", we will not meet as a full class. Instead, 
 The following are not required, but may prove useful:
 
 * **An orchestration text**: We will not be dealing directly with orchestration in the class, but a basic understanding of instruments and voice types will prove useful. If you intend to study orchestration at UCF, the current textbook is Samuel Adler's _The Study of Orchestration_, but smaller references would also be acceptable for our purposes.
+* **Elaine Gould: _Behind Bars_**: This is an incredible resource on the best practices of music notation. You'd be surprised at how often our notation software gets things wrong! Gould's book will serve you for as long as you are preparing scores as a composer, arranger, or teacher. 
 * New music listening and information sources:
     * [_NewMusicBox_](http://newmusicbox.org): Features interviews, essays, and news about new music.
     * [_Meet the Composer_](http://www.wqxr.org/#!/programs/meet-composer/): Podcast featuring interviews with living composers about their music. There are some great playlists here as well.
