@@ -6,7 +6,7 @@ Instructor: Dr. David MacDonald
 Email: David.MacDonald@ucf.edu
 Class Meetings: M/W, 10:30-11:20am
 Office: PAC M230
-Office Hours: By Appointment
+Office Hours: M/W, 1:30-3:30pm; T/Th, 9:00-10:00am
 Term: Spring 2018
 
 #### Description
