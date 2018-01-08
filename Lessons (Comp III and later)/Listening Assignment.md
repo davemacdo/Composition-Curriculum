@@ -31,4 +31,4 @@ Posts are due on Sunday evenings.
 
 ## Listening Schedule
 
-{{listening-sched/2017-08.md}}
+{{listening-sched/2018-01.md}}
