@@ -11,6 +11,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 - Listening (in class)
 	- Crumb: _Black Angels_ (1970)
 	- Cowell: _The Banshee_ (1925) and _Aeolian Harp_ (1931)
+	- [YouTube playlist](https://www.youtube.com/playlist?list=PL9O2Vx6Aqkd4y6k_r69NKFHWUEAwH7-Cg)
 
 ## Wednesday, 10 January
 
