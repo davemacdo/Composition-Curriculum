@@ -24,6 +24,7 @@
 - George Crumb
 - Mario Davidovsky
 - Peter Maxwell Davies
+- Lucia Dlugoszewski
 - Du Yun
 - Mohammed Fairouz
 - Morton Feldman
@@ -95,6 +96,7 @@
 - Anna Thorvaldsdóttir
 - Joan Tower
 - Ken Ueno
+- Aleksandra Vrebalov
 - Melinda Wagner
 - Julia Wolfe
 - Iannis Xenakis
