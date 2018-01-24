@@ -24,8 +24,8 @@ Attendance at this event is _required_ for all composition majors (FMEA attendee
 ## Null-state computer music duo
 
 - Friday, 26 January
-	- 5p computer music workshop, 5pm in PAC T204 Computer Lab
-	- 8p intercontinental live coding concert, 8p in Rehearsal Hall
+	- 5pm in PAC T204 Computer Lab: computer music workshop
+	- 8p in Rehearsal Hall: intercontinental live coding concert
 
 This is a reschedule from last semester. (Thanks, Irma.) Benjamin Whiting will present an interactive workshop on computer music in T204. The concert in the evening will feature an intercontinental live-coding improvisation with Melody Chua, who will participate from Zürich. Attendance at these events are _required_ for all composition majors.
 
@@ -88,12 +88,28 @@ New vocal music by Erick Campos, Melody Cook, Emily Susann Higgins, Heidi Matter
 
 Alterity Chamber Orchestra with guest composer Christopher Cerrone and soprano Ariadne Greif. This is going to be a _great_ show. The last Alterity show sold out; get in early on this one. 
 
+## [Eva Lopszyc, composer](http://ciweb.com.ar/Lopszyc_Eva/)
+
+- Monday, 26 March
+	- 11:30a in T204: presentation
+	- 3:30p in M120: New Music Ensemble rehearsal, masterclass and feedback session after (in M263)
+
+Lopszyc is a composer from Argentina and president of the Foro Argentino de Compositoras (Argentinian Women Composers Forum). She will present her music, sit in on a rehearsal of the NME rehearsing student compositions, and offer feedback in a masterclass afterward. Attendance at these events is _required_ for all composition majors.
+
 ## UCF New Music Ensemble
 
 - Thursday, 29 March, 8p
 - UCF Rehearsal Hall
 
 UCF NME plays a whole program of world premieres by UCF Composers! How cool is that?! Attendance at this event is _required_ for all composition majors, obvs. 
+
+## Heidi Mattern and Erick Campos Senior Recitals (**tentative!**)
+
+- Friday, 30 March in Visual Arts Building Auditorium
+	- 6:30p: Heidi Mattern
+	- 8p: Erick Campos
+
+Attendance at this event is _required_ for all composition majors.
 
 ## Composition Forum Concert
 
@@ -109,6 +125,9 @@ UCF NME plays a whole program of world premieres by UCF Composers! How cool is t
 
 This is a reprise of the 29 March program to conclude UCFNME's innaugural season. Hooray!
 
-## STILL TO BE SCHEDULED!
+## Emily Susann Higgins, Senior Composition Recital (**tentative!**)
 
-We have _three_ senior recitals (Campos, Higgins, Mattern) this semester! (I think that's a record since I've been here.) The schedule for those is TBD, but plan to attend these events, probably a little before or after spring break. Attendance at compostion degree recitals is _required_ for all composition majors. 
+- Saturday, 21 March, 6p
+- UCF Rehearsal Hall
+
+Attendance at this event is _required_ for all composition majors.
