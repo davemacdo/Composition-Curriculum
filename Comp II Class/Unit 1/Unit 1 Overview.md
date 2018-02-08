@@ -58,7 +58,7 @@ Martin Luther King, Jr. Day. No class.
 
 ## Further Listening
 
-These will not be directly discussed in class, but you should study these recordings while working on the unit project (during lesson weeks). They may appear on the final listening examination as well. You are responsible for knowing them on the listening exam, along with
+These will not be directly discussed in class; but, you should study these recordings while working on the unit project (during lesson weeks). They may appear on the final listening exam as well. You are responsible for knowing them, along with the in-class listening (above). 
 
 - Cage: _Sonatas and Interludes_
 - Crumb: _Vox Balanae_
