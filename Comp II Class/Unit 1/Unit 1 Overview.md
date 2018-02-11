@@ -9,8 +9,8 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 ## Monday, 8 January
 
 - Listening (in class)
-	- Crumb: _Black Angels_ (1970)
-	- Cowell: _The Banshee_ (1925) and _Aeolian Harp_ (1931)
+	- George Crumb: _Black Angels_ (1970)
+	- Henry Cowell: _The Banshee_ (1925) and _Aeolian Harp_ (1931)
 	- [YouTube playlist](https://www.youtube.com/playlist?list=PL9O2Vx6Aqkd4y6k_r69NKFHWUEAwH7-Cg)
 
 ## Wednesday, 10 January
@@ -41,7 +41,7 @@ Martin Luther King, Jr. Day. No class.
 - Homework (before class)
 	- Notation experiment
 - Listening (in class)
-	- Penderecki: _Threnody for the Victims of Hiroshima_ (1960)
+	- Krzysztof Penderecki: _Threnody for the Victims of Hiroshima_ (1960)
 
 ## Wednesday, 24 January
 
@@ -60,8 +60,8 @@ Martin Luther King, Jr. Day. No class.
 
 These will not be directly discussed in class; but, you should study these recordings while working on the unit project (during lesson weeks). They may appear on the final listening exam as well. You are responsible for knowing them, along with the in-class listening (above). 
 
-- Cage: _Sonatas and Interludes_
-- Crumb: _Vox Balanae_
+- John Cage: _Sonatas and Interludes_
+- George Crumb: _Vox Balanae_
 
 ## Don't forget
 
