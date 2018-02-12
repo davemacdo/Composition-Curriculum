@@ -11,8 +11,8 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 ## Monday, 12 February
 
 - Listening (in class)
-	- Bartók: String Quartet No. 5 (1936)
-	- Wilson: _A City Called Heaven_ (1988)
+	- Béla Bartók: String Quartet No. 5 (1936)
+	- Olly Wilson: _A City Called Heaven_ (1988)
 
 ## Wednesday, 14 February
 
@@ -34,13 +34,13 @@ Note: Along with David Lang, Wolfe and Gordon are the founders of the prominent 
 - Homework (before class)
 	- Listening research assignment
 - Listening (in class)
-	- Shaw: _Partita for 8 Singers_ (2009 - 2012)
+	- Caroline Shaw: _Partita for 8 Singers_ (2009 - 2012)
 
 ## Monday, 26 February
 
 - Listening (in class)
 	- Tania León: _Indígena_ (1991)
-	- Bates: _Liquid Interface_ (2006) and _Alternative Energy_ (2011)
+	- Mason Bates: _Liquid Interface_ (2006) and _Alternative Energy_ (2011)
 
 ## Wednesday, 28 February
 
@@ -62,5 +62,5 @@ Note: Along with David Lang, Wolfe and Gordon are the founders of the prominent 
 
 These will not be directly discussed in class; but, you should study these recordings while working on the unit project (during lesson weeks). They may appear on the final listening exam as well. You are responsible for knowing them, along with the in-class listening (above). 
 
-- Little: _Soldier Songs_ Part II, Warrior (2006)
-- Schuller: Concertino for Jazz Quartet and Orchestra (1960)
+- David T. Little: _Soldier Songs_ Part II, Warrior (2006)
+- Gunther Schuller: Concertino for Jazz Quartet and Orchestra (1960)
