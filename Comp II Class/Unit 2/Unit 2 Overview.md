@@ -16,29 +16,38 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 
 ## Wednesday, 14 February
 
+- Homework (before class)
+	- Discussion: Mixing Musical Traditions (Your first post should be submitted by the end of the day Tuesday; your second by the end of the day Wednesday.)
 - Listening (in class)
 	- Alex Temple: _The Man Who Hated Everything_ (2015) [YouTube](https://youtu.be/ieatSGff-rE)
 
 ## Monday, 19 February
 
 - Listening (in class)
-	- Bates: _Liquid Interface_ (2006) and _Alternative Energy_ (2011)
+	- Julia Wolfe: _Lad_ (2007), _Reeling_ (2012), and _Lick_ (1994)
+	- Michael Gordon: _Yo Shakespeare_ (1992)
+
+Note: Along with David Lang, Wolfe and Gordon are the founders of the prominent [Bang on a Can](http://bangonacan.org/) new music collective. 
 
 ## Wednesday, 21 February
 
+- Homework (before class)
+	- Listening research assignment
 - Listening (in class)
-	- Gordon: _Yo Shakespeare_ (1992)
 	- Shaw: _Partita for 8 Singers_ (2009 - 2012)
 
 ## Monday, 26 February
 
 - Listening (in class)
-	- ???
+	- Tania León: _Indígena_ (1991)
+	- Bates: _Liquid Interface_ (2006) and _Alternative Energy_ (2011)
 
 ## Wednesday, 28 February
 
-- Listening (in class)
-	- ???
+- Homework (before class)
+	- "Third Stream" étude
+- In-class activity
+	- Presentations of compositions (computer realizations)
 
 ## Individual Meetings
 
