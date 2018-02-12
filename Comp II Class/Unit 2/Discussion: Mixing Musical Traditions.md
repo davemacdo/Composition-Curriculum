@@ -8,7 +8,7 @@ At a very high level, scholars often group musical practice into three broad tra
 
 Many years ago, I read a review of a concert that offered the axiom "the intersection of classical and popular music is almost always _con queso_." This is, sadly, the earned reputation of many pieces of classical music that reflect on other styles.
 
-Write a discussion post that addresses the following:
+Write a discussion post that addresses the blending of musical traditions. Address the concerns in the questions below; but, write in paragraphs rather than question-answer pairs. 
 
 - What does it mean for popular or folk music to be "authentic"? How is this different from authenticity in art music?
 - How can classical music reflect or embrace popular and folk music in a way that is neither a pale imitation nor an exploitative coopting of the music of another group?
