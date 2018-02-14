@@ -17,6 +17,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 ## Wednesday, 14 February
 
 - Homework (before class)
+	- Read: Gunther Schuller: _The Third Stream_ and _The Third Stream Revisited_
 	- Discussion: Mixing Musical Traditions (Your first post should be submitted by the end of the day Tuesday; your second by the end of the day Wednesday.)
 - Listening (in class)
 	- Alex Temple: _The Man Who Hated Everything_ (2015) [YouTube](https://youtu.be/ieatSGff-rE)
