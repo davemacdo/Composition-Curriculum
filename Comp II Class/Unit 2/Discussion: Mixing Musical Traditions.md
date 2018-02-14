@@ -1,4 +1,4 @@
-# Discussion: Mixing Musical Traditions
+Title: Discussion: Mixing Traditions
 
 At a very high level, scholars often group musical practice into three broad traditions based on the goals and circumstances of the practitioners:
 
@@ -14,7 +14,7 @@ Write a discussion post that addresses the blending of musical traditions. Addre
 - How can classical music reflect or embrace popular and folk music in a way that is neither a pale imitation nor an exploitative coopting of the music of another group?
 - What kinds of folk or popular styles interest you, and what specific musical devices (describe in technical, theory-class terms) interest you about that music?
 
-Your post should be a _minimum of 500 words_ but may be longer if you wish. Make your initial post _at least one full day before the discussion board deadline!_ Afterwards, respond to at least one other post on the discussion board. Your response should be substantive and offer specific suggestions or ask specific questions.
+In preparing your essay, you may wish to review excerpts from Gunther Schuller's writing on what he calls "the third stream" from the Files section on Webcourses. Your post should be a _minimum of 500 words_ but may be longer if you wish. Make your initial post _at least one full day before the discussion board deadline!_ Afterwards, respond to at least one other post on the discussion board. Your response should be substantive and offer specific suggestions or ask specific questions.
 
 | Rubric ||
 | :---: | --- |
