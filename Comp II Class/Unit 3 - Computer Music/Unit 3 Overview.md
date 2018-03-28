@@ -28,7 +28,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 ## Monday, 2 April
 
 - Homework (before class)
-	- Adaptive synthesizer
+	- Dynamic synthesizer
 - Class topics
 	- Audio inputs
 	- Digital signal processing
