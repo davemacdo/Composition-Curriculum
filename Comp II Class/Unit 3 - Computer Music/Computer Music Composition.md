@@ -10,7 +10,7 @@ Each of these is required. Submit all digital files via Webcourses. Bring paper 
 
 - **PDF**:
 	- full score, either hand-written or computer-engraved, this includes graphic scores or instruction-based scores
-- **Performance media**:
+- **ZIP** archive of all performance media:
 	- any Pd patches, audio files, etc. used in the piece
 - **PDF**:
 	- Reflection: A brief written description of the way you addressed a popular or folk influence in this composition (100-200 words).
