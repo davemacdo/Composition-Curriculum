@@ -27,7 +27,7 @@ Martin Luther King, Jr. Day. No class.
 
 
 - Listening (in class)
-	- Earle Brown: _December, 1952_ and _4 Systems_ (1954)
+	- Earle Brown: _December, 1952_ (1952) and _4 Systems_ (1954)
 		- [score](http://4.bp.blogspot.com/-s8R1h5LtHPg/T2PG8ktEJPI/AAAAAAAAC2c/IrUxZGD8Cqc/s1600/Earle+Brown,+December+1952.jpg)
 		- [realization](https://youtu.be/pXoLIDQPO1k)
 		- [score](http://www.earle-brown.org/images/work/full.12.jpg)
@@ -58,10 +58,10 @@ Martin Luther King, Jr. Day. No class.
 
 ## Further Listening
 
-These will not be directly discussed in class; but, you should study these recordings while working on the unit project (during lesson weeks). They may appear on the final listening exam as well. You are responsible for knowing them, along with the in-class listening (above). 
+These will not be directly discussed in class; but, you should study these recordings while working on the unit project (during lesson weeks). They may appear on the final listening exam as well. You are responsible for knowing them, along with the in-class listening (above).
 
-- John Cage: _Sonatas and Interludes_
-- George Crumb: _Vox Balanae_
+- John Cage: _Sonatas and Interludes_ (1946 - 1948)
+- George Crumb: _Vox Balaenae_ (1971)
 
 ## Don't forget
 
