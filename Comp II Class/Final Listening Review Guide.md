@@ -4,7 +4,7 @@ To assess your listening habits over the semester, the final listening quiz will
 
 On the quiz, I'll play a characteristic excerpt of each piece, and you'll write the composer and title of the work. (You'll need to know this information yourself. There won't be an option bank.) The excerpts will be about 30 to 60 seconds long. I'll play through all of them in order twice with a break in between.
 
-I've compiled this Spotify playlist that includes everything except the [Temple](https://youtu.be/ieatSGff-rE) and [Vrebalov](https://soundcloud.com/kronosquartet/aleksandra-vrebalov-my-desert-my-rose) examplse, which you can find on YouTube and Soundcloud, respectively.
+I've compiled this Spotify playlist that includes everything except the [Temple](https://youtu.be/ieatSGff-rE) and [Vrebalov](https://soundcloud.com/kronosquartet/aleksandra-vrebalov-my-desert-my-rose) examples, which you can find on YouTube and Soundcloud, respectively.
 
 <iframe src="https://open.spotify.com/embed/user/davemacdo/playlist/1GMkxatx5yiaHANnp1Rc9M" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
