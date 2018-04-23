@@ -20,7 +20,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 	- Read: Gunther Schuller: _The Third Stream_ and _The Third Stream Revisited_
 	- Discussion: Mixing Musical Traditions (Your first post should be submitted by the end of the day Tuesday; your second by the end of the day Wednesday.)
 - Listening (in class)
-	- Alex Temple: _The Man Who Hated Everything_ (2015) - [YouTube](https://youtu.be/ieatSGff-rE), [score](http://www.alextemplemusic.com/wp-content/uploads/tmwhe.pdf)
+	- Alex Temple: _The Man Who Hated Everything_ (2015) - [YouTube](https://youtu.be/jz5lmcGsLFM), [score](http://www.alextemplemusic.com/wp-content/uploads/tmwhe.pdf)
 
 ## Monday, 19 February
 
@@ -28,7 +28,7 @@ Readings are provided in the **Files** section of Webcourses or linked on extern
 	- Julia Wolfe: _Lad_ (2007), _Reeling_ (2012), and _Lick_ (1994)
 	- Michael Gordon: _Yo Shakespeare_ (1992)
 
-Note: Along with David Lang, Wolfe and Gordon are the founders of the prominent [Bang on a Can](http://bangonacan.org/) new music collective. 
+Note: Along with David Lang, Wolfe and Gordon are the founders of the prominent [Bang on a Can](http://bangonacan.org/) new music collective.
 
 ## Wednesday, 21 February
 
@@ -61,7 +61,7 @@ Note: Along with David Lang, Wolfe and Gordon are the founders of the prominent 
 
 ## Further Listening
 
-These will not be directly discussed in class; but, you should study these recordings while working on the unit project (during lesson weeks). They may appear on the final listening exam as well. You are responsible for knowing them, along with the in-class listening (above). 
+These will not be directly discussed in class; but, you should study these recordings while working on the unit project (during lesson weeks). They may appear on the final listening exam as well. You are responsible for knowing them, along with the in-class listening (above).
 
 - David T. Little: _Soldier Songs_ Part II, Warrior (2006)
 - Gunther Schuller: Concertino for Jazz Quartet and Orchestra (1960)
